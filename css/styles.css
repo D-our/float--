@@ -1,0 +1,78 @@
+.container {
+    height: 300px;
+    width: 300px;
+    padding: 3px;
+}
+
+.container div {
+    margin-bottom: 2px;
+    margin-right: 2px;
+}
+
+.green {
+    background-color: green;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.violet {
+    background-color: violet;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.block-1 {
+    height: 72.5px;
+    width: 72.5px;
+    float: left;
+}
+
+.block-2 {
+    height: 72.5px;
+    width: 148.5px;
+    float: right;
+}
+
+.block-3 {
+    height: 147.5px;
+    width: 72.5px;
+    float: right;
+}
+
+.block-4 {
+    height: 222.5px;
+    width: 72.5px;
+    float: left;
+}
+
+.block-5 {
+    height: 147.5px;
+    width: 72.5px;
+    float: left;
+}
+
+.block-6 {
+    height: 72.5px;
+    width: 72.5px;
+    float: right;
+}
+
+.block-7 {
+    height: 72.5px;
+    width: 148.5px;
+    float: right;
+}
+
+.block-8 {
+    height: 72.5px;
+    width: 222.5px;
+    float: right;
+}
